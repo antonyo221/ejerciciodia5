@@ -2,3 +2,29 @@
 	height: 2px;
 	width: 2px;
 }
+
+#foto{
+padding: 1em 5em;
+}
+
+#par{
+	background-color: #088A4B;
+}
+.negro{
+	color: black;
+}
+#a{
+	background-color: #F781F3;
+}
+
+#b{
+	background-color: #F3F781;
+}
+
+#c{
+	background-color: #58FAF4;
+}
+
+#d{
+	background-color: #F78181;
+}
